@@ -7,21 +7,23 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 
 <!-- Quick facts/about me -->
 ## 📝 About Me
-- 👨‍💻 Currently focused on: Python, OOP, and data science fundamentals.
+- 👨‍💻 Currently focused on: SQL (MySQL).
 - 🚀 Lifelong learner, excited about analytics and coding.
 - 📚 Learning by doing: check out my [Learning-Logs](https://github.com/Shailya777/Learning-Logs) for daily/weekly practice.
-- 🌱 Next up: SQL, basic data viz, and building mini-projects with real datasets.
+- 🌱 Next up: Statisitcs, EDA, basic data viz, and building mini-projects with real datasets.
 
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
 - [Phone-Book-Python](https://github.com/Shailya777/Phone-Book-Python-.git): Text-based contact book built from scratch (functions, file I/O).  
-- [Tic-Tac-Toe-Python](https://github.com/Shailya777/Tic-Tac-Toe-Python-.git): Classic CLI game, modular design.  
+- [Tic-Tac-Toe-Python](https://github.com/Shailya777/Tic-Tac-Toe-Python-.git): Classic CLI game, modular design.
+- [War (Simple Card Game)](https://github.com/Shailya777/War-Card-Game-Python.git): Classic CLI game, modular design.
+- [Black Jack](https://github.com/Shailya777/Black-jack-Python.git): CLI Design, Using Classes and Modules.
 - [Learning-Logs](https://github.com/Shailya777/Learning-Logs): My open record of practice scripts, reflection, and mini-wins as I grow.
 
 <!-- Skills summary -->
 ## 🛠️ Skills & Tools
-- Languages: Python (core, OOP, CLI), a little bit of SQL
-- Tools: Pycharm, Jupyter Notebooks, VS Code
+- Languages: Python (core, OOP, CLI), MySQL.
+- Tools: Pycharm, Jupyter Notebooks, VS Code, MySQL Workbench.
 - Interests: Data analysis, Data Science, Machine Learning, Deep Learning.
 
 <!-- Quick contact or connection -->
