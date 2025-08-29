@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Greeting and intro -->
 # Hi there, I'm Shailya. 👋
 
