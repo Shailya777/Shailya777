@@ -12,6 +12,7 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
+- [Expense Tracker CLI](https://github.com/Shailya777/Expense-Tracker.git): A robust, feature-rich, command-line interface (CLI) application for personal expense tracking, built with Python and MySQL.
 - [Phone-Book-Python](https://github.com/Shailya777/Phone-Book-Python-.git): Text-based contact book built from scratch (functions, file I/O).  
 - [Tic-Tac-Toe-Python](https://github.com/Shailya777/Tic-Tac-Toe-Python-.git): Classic CLI game, modular design.
 - [War (Simple Card Game)](https://github.com/Shailya777/War-Card-Game-Python.git): Classic CLI game, modular design.
