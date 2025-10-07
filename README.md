@@ -12,6 +12,8 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
+- [Fraud Detection Analysis EDA](https://github.com/Shailya777/Fraud-Detection-EDA.git): This project analyzes fraud detection using Exploratory Data Analysis (EDA) with statistical hypothesis testing.
+- [Customer Churn Analysis EDA](https://github.com/Shailya777/Customer-Churn-Analysis-EDA-.git): Analyzes customer churn using Exploratory Data Analysis (EDA) with statistical hypothesis testing. It goes beyond visual exploration to validate findings using Chi-square tests and t-tests.
 - [Expense Tracker CLI](https://github.com/Shailya777/Expense-Tracker.git): A robust, feature-rich, command-line interface (CLI) application for personal expense tracking, built with Python and MySQL.
 - [Phone-Book-Python](https://github.com/Shailya777/Phone-Book-Python-.git): Text-based contact book built from scratch (functions, file I/O).  
 - [Tic-Tac-Toe-Python](https://github.com/Shailya777/Tic-Tac-Toe-Python-.git): Classic CLI game, modular design.
