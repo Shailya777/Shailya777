@@ -5,10 +5,10 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 
 <!-- Quick facts/about me -->
 ## 📝 About Me
-- 👨‍💻 Currently focused on: SQL (MySQL).
+- 👨‍💻 Currently focused on:Machine Learning.
 - 🚀 Lifelong learner, excited about analytics and coding.
 - 📚 Learning by doing: check out my [Learning-Logs](https://github.com/Shailya777/Learning-Logs) for daily/weekly practice.
-- 🌱 Next up: Statisitcs, EDA, basic data viz, and building mini-projects with real datasets.
+- 🌱 Next up: Supervised Learning, Unsupervised Learning, Time Series Analysis and Forecasting.
 
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
