@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 
 <!-- Quick facts/about me -->
 ## 📝 About Me
-- 👨‍💻 Currently focused on: Machine Learning.
+- 👨‍💻 Currently focused on: Machine Learning (Linear Regression).
 - 🚀 Lifelong learner, excited about analytics and coding.
 - 📚 Learning by doing: check out my [Learning-Logs](https://github.com/Shailya777/Learning-Logs) for daily/weekly practice.
 - 🌱 Next up: Supervised Learning, Unsupervised Learning, Time Series Analysis and Forecasting.
