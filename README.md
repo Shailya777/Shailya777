@@ -5,10 +5,10 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 
 <!-- Quick facts/about me -->
 ## 📝 About Me
-- 👨‍💻 Currently focused on: Time Series Analysis and Forecasting.
+- 👨‍💻 Currently focused on: NLP
 - 🚀 Lifelong learner, excited about analytics and coding.
 - 📚 Learning by doing: check out my [Learning-Logs](https://github.com/Shailya777/Learning-Logs) for daily/weekly practice.
-- 🌱 Next up: Supervised Learning, Deep Learning.
+- 🌱 Next up: Transformers
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
 - [Fraud Detection Analysis EDA](https://github.com/Shailya777/Fraud-Detection-EDA.git): This project analyzes fraud detection using Exploratory Data Analysis (EDA) with statistical hypothesis testing.
