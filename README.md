@@ -11,6 +11,7 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 - 🌱 Next up: Porfolio Projects
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
+- [Multi-Modal AI Airline Assistant](https://github.com/Shailya777/Applied-LLM-Engineering/blob/main/02_Part_2/08_Multi-Modal_Airline_AI_Assistant.ipynb): This project let the user find live cheapest flights (from SerpAPI) given origin, destination and date, by chatting, read out replies from the assistant and generates a pop-art style image of destination city.  
 - [Airline Booking AI Assistant with OpenAI API and OLLAMA API](https://github.com/Shailya777/Applied-LLM-Engineering/blob/main/02_Part_2/07_Airline_AI_Assistant_with_MySQL_DB_Integration.ipynb): This project integrates Python and MySQL DB to handle user queries about Airline Prices between different cities, using gradio chat interface. 
 - [Automated ML Project Architect using OpenAI API](https://github.com/Shailya777/Applied-LLM-Engineering/blob/main/01_Exploring_Top_Models/08_Automated_ML_Project_Architect.ipynb): This simple project takes data in csv file and generates Markdown file with proposed data cleaning steps, model recommendations and feature descriptions.
 - [Fraud Detection Analysis EDA](https://github.com/Shailya777/Fraud-Detection-EDA.git): This project analyzes fraud detection using Exploratory Data Analysis (EDA) with statistical hypothesis testing.
