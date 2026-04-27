@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m an aspiring [Data Scientist / Analyst] on a mission 
 - 👨‍💻 Currently focused on: GenAI and PowerBI
 - 🚀 Lifelong learner, excited about analytics and coding.
 - 📚 Learning by doing: check out my [Learning-Logs](https://github.com/Shailya777/Learning-Logs) for daily/weekly practice.
-- 🌱 Next up: Porfolio Projects
+- 🌱 Next up: Fine tuning Frontier and Open-Source models.
 <!-- Highlight best repos/projects -->
 ## 🌟 Featured Projects
 - [Gradio Hybrid RAG Assistant](https://github.com/Shailya777/gradio-rag-assistant.git): An advanced, production-grade Retrieval-Augmented Generation (RAG) system built to query and synthesize Gradio documentation. This project features a custom ingestion pipeline, a hybrid local/cloud architecture, and a rigorous LLM-as-a-Judge evaluation framework to mathematically prove factual accuracy.
